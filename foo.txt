@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdf
 
 pp
@@ -7,3 +8,6 @@ plk
 saf
 
 .csv is best
+=======
+saf
+>>>>>>> 81625674ce8592cdcefe699af1964f7f55239182
