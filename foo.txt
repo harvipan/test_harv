@@ -26,3 +26,5 @@ changes
 This should be  major
 
 this seems to change everything
+
+this commit message should be edited.
